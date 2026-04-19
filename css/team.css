@@ -1,0 +1,17 @@
+#team {
+  background-color: #f4f4fd;
+}
+.team-list-item {
+  background-color: #ffffff;
+}
+.team-list-item p {
+  color: #434455;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+}
+.team-list-item p,
+.team-list-item h3 {
+  text-align: center;
+}

@@ -1,0 +1,24 @@
+#header {
+  background-color: #ffffff;
+}
+.nav-list {
+  list-style-type: none;
+  line-height: 24px;
+}
+.nav-list-item {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+  color: #2e2f42;
+  letter-spacing: 2%;
+}
+.contacts-list {
+  line-height: 24px;
+}
+.contacts-list-item {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 400;
+  color: #434455;
+  letter-spacing: 2%;
+}
