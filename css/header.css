@@ -2,7 +2,7 @@
   color: #2e2f42;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.17;
+  line-height: 1.33;
   letter-spacing: 0.03em;
   font-family: 'Raleway', sans-serif;
 }
@@ -20,7 +20,7 @@
 .contacts-list-item:focus {
   color: #404bbf;
 }
-#contacts {
+.contacts {
   font-style: normal;
 }
 .contacts-list-item {
