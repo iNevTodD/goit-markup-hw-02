@@ -1,4 +1,4 @@
-#team {
+.team {
   background-color: #f4f4fd;
 }
 .team-list-item {
@@ -11,4 +11,6 @@
 .team-list-item p,
 .team-list-item h3 {
   text-align: center;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }

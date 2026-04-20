@@ -1,17 +1,20 @@
-#footer {
+.footer {
   background-color: #2e2f42;
 }
-#footer p {
+.footer p {
   color: #f4f4fd;
   font-weight: 400;
+  letter-spacing: 0.02em;
+  line-height: 1.5;
 }
-.logo-footer{
-  color: #F4F4FD;
+.logo-footer {
+  color: #f4f4fd;
   font-weight: 700;
   font-size: 18px;
-  line-height: 21px;
-  letter-spacing: 3%;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  font-family: 'Raleway', sans-serif;
 }
-.logo-footer span{
-  color: #4D5AE5;
+.logo-footer span {
+  color: #4d5ae5;
 }
