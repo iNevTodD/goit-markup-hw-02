@@ -1,19 +1,4 @@
-#features {
-  background-color: #ffffff;
-}
-
-.features-title {
-  color: #2e2f42;
-  font-weight: bold;
-  font-size: 36px;
-  line-height: 40px;
-  letter-spacing: 2%;
-}
-
 .features-list-item p {
   color: #434455;
   font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  letter-spacing: 2%;
 }

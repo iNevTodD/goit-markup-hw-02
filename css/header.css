@@ -1,24 +1,26 @@
-#header {
-  background-color: #ffffff;
+.logo-header {
+  color: #2e2f42;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 3%;
 }
-.nav-list {
-  list-style-type: none;
-  line-height: 24px;
+.logo-header span {
+  color: #4d5ae5;
 }
 .nav-list-item {
-  text-decoration: none;
-  font-size: 16px;
   font-weight: 500;
   color: #2e2f42;
-  letter-spacing: 2%;
 }
-.contacts-list {
-  line-height: 24px;
+.nav-list-item:hover,
+.contacts-list-item:hover {
+  color: #404bbf;
+}
+.nav-list-item:active {
+  border-bottom: 4px solid #404bbf;
+  border-top: 44px;
 }
 .contacts-list-item {
-  text-decoration: none;
-  font-size: 16px;
   font-weight: 400;
   color: #434455;
-  letter-spacing: 2%;
 }
